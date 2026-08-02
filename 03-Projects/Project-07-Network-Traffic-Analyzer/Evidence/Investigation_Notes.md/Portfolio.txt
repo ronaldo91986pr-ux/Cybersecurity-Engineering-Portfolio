@@ -1,0 +1,87 @@
+Everything is connected.
+
+If DNS fails...
+
+Websites stop working.
+
+If Active Directory fails...
+
+Nobody logs in.
+
+If IAM fails...
+
+Cloud resources become exposed.
+
+If logging fails...
+
+Nobody knows an attack happened.
+Security Layers
+
+Another engineer mindset.
+
+Don't trust one defense.
+
+Imagine a hacker steals someone's password.
+
+Can they still get in?
+
+Maybe.
+
+But then they encounter:
+
+Firewall
+
+↓
+
+VPN
+
+↓
+
+MFA
+
+↓
+
+Conditional Access
+
+↓
+
+EDR
+
+↓
+
+SIEM
+
+↓
+
+SOC Monitoring
+
+↓
+
+Least Privilege
+
+↓
+
+Network Segmentation
+
+↓
+
+Logging
+
+↓
+
+Incident Response
+
+Every layer slows them down.
+
+
+IBM Mindset
+
+One thing IBM values is solving business problems, not just technical ones.
+
+Instead of saying:
+
+"I installed a firewall."
+
+Say:
+
+"I reduced the attack surface by restricting unnecessary inbound traffic and documenting the rule set."

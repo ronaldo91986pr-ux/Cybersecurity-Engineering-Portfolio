@@ -1,0 +1,40 @@
+## Firewall Assessment
+
+The Ubuntu firewall (UFW) was configured to allow inbound SSH traffic on TCP port 22.
+
+No additional inbound services were exposed through the firewall configuration.
+
+---
+
+## Listening Services
+
+Active listening services were reviewed using the `ss -tulnp` command.
+
+Observed services included:
+
+- OpenSSH
+- systemd-resolved
+- DHCP client
+
+No unexpected network services were identified.
+
+---
+
+## Failed Services
+
+The `systemctl --failed` command reported no failed services.
+
+This indicates the operating system was functioning normally during the assessment.
+
+---
+
+## Overall Assessment
+
+The Ubuntu server presents a minimal attack surface.
+
+Recommendations:
+
+- Keep SSH updated.
+- Limit SSH access to trusted IP addresses where practical.
+- Use SSH key authentication.
+- Continue monitoring system services.

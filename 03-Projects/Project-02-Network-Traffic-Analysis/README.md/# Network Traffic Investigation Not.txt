@@ -1,0 +1,39 @@
+# Network Traffic Investigation Notes
+
+## Objective
+
+Review the sample network traffic log to identify protocol usage, active source IP addresses, and potentially suspicious communication patterns.
+
+## Evidence Reviewed
+
+- Source file: `Captures/sample_network.log`
+- Total events reviewed: 8
+- Protocols observed: DNS, HTTPS, ICMP, HTTP, SSH
+
+## Initial Observations
+
+- 192.168.1.10 generated DNS and HTTPS traffic.
+- 192.168.1.15 generated one ICMP event.
+- 192.168.1.20 generated two HTTP events.
+- 192.168.1.30 generated three SSH events within 17 seconds.
+
+## Suspicious Activity
+
+The repeated SSH activity from 192.168.1.30 is the most notable pattern.
+
+This may indicate:
+
+- Repeated administrative access
+- Automated SSH activity
+- Network scanning
+- Authentication attempts
+
+The available log does not contain enough evidence to confirm malicious activity.
+
+## Recommended Next Steps
+
+- Review SSH authentication logs.
+- Identify the owner of 192.168.1.30.
+- Verify whether the SSH activity was authorized.
+- Check for failed login attempts.
+- Review firewall and endpoint logs for related activity.

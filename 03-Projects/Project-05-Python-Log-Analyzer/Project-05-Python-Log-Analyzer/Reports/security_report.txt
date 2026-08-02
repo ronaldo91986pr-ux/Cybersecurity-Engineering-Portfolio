@@ -1,0 +1,12 @@
+SECURITY INCIDENT REPORT
+========================
+
+Total Failed Logins: 3
+Successful Logins: 2
+Unique Attacker IPs: 2
+
+Attacker Summary
+------------------------
+192.168.1.10 -> 2 failed login(s)
+ALERT: Possible brute-force attack!
+192.168.1.20 -> 1 failed login(s)

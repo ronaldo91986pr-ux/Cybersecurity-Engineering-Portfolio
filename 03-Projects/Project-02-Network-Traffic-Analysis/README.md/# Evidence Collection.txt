@@ -1,0 +1,43 @@
+# Evidence Collection
+
+## Incident ID
+
+INC-2026-0007
+
+## Date
+
+August 1, 2026
+
+## Analyst
+
+Jose Alvarez Ramirez
+
+---
+
+## Evidence Collected
+
+✔ Network traffic log
+
+✔ Source IP addresses
+
+✔ Destination IP addresses
+
+✔ Protocol information
+
+✔ Port information
+
+✔ Timeline of events
+
+---
+
+## Files Reviewed
+
+sample_network.log
+
+network_report.txt
+
+---
+
+## Status
+
+Evidence successfully collected and preserved for analysis.

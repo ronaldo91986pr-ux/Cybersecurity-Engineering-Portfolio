@@ -1,0 +1,56 @@
+# Security Engineer Mindset
+
+## What is cybersecurity?
+
+Cybersecurity is the practice of protecting people, systems, applications, networks, and data from unauthorized access, misuse, disruption, or destruction.
+
+---
+
+## The CIA Triad
+
+### Confidentiality
+Definition:
+
+Examples:
+
+---
+
+### Integrity
+Definition:
+
+Examples:
+
+---
+
+### Availability
+Definition:
+
+Examples:
+
+---
+
+## Defense in Depth
+
+Definition:
+
+Real-world example:
+
+---
+
+## Questions Every Security Engineer Should Ask
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+---
+
+## Lessons Learned
+
+Today I learned:

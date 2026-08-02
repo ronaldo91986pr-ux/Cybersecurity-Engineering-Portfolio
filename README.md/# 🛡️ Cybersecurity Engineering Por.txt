@@ -1,0 +1,109 @@
+# 🛡️ Cybersecurity Engineering Portfolio
+
+## About Me
+
+Hello! I'm Jose Alvarez, an aspiring Cybersecurity Analyst building practical skills through hands-on labs and real-world security projects.
+
+This portfolio demonstrates experience with Windows, Linux, Python, networking, virtualization, and security monitoring.
+
+---
+
+# Technical Skills
+
+- Windows Security
+- Linux Administration
+- Python
+- Networking
+- Nmap
+- Wireshark
+- VirtualBox
+- VMware
+- Kali Linux
+- Ubuntu
+- Security Onion
+- Git & GitHub
+
+---
+
+# Portfolio Projects
+
+## Project 01 – Enterprise Network Discovery
+
+- Network reconnaissance
+- Host discovery
+- Service enumeration
+
+---
+
+## Project 02 – Network Traffic Analysis
+
+- Packet inspection
+- Traffic analysis
+- Network troubleshooting
+
+---
+
+## Project 03 – Linux Server Hardening
+
+- User management
+- File permissions
+- SSH configuration
+- Firewall
+
+---
+
+## Project 04 – Wireless Security Investigation
+
+- Wireless adapter configuration
+- Network discovery
+- Wireless security analysis
+
+---
+
+## Project 05 – Python Log Analyzer
+
+- Python automation
+- Log parsing
+- Security reporting
+
+---
+
+## Project 06 – Windows Event Log Analyzer
+
+- Windows Security Logs
+- Event IDs
+- Authentication analysis
+
+---
+
+## Project 07 – Network Traffic Analyzer
+
+- Python scripting
+- Network log analysis
+- Report generation
+
+---
+
+## Project 08 – Python IOC Scanner
+
+- Indicator of Compromise detection
+- Threat intelligence
+- Automated IOC matching
+
+---
+
+## Project 09 – Security Onion SOC Lab
+
+- Security Onion deployment
+- Network monitoring
+- SOC fundamentals
+- Threat hunting
+
+---
+
+# Current Goals
+
+- Build practical cybersecurity experience
+- Continue developing Python automation skills
+- Expand SOC investigation knowledge
+- Prepare for entry-level Cybersecurity Analyst and SOC Analyst roles

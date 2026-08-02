@@ -1,0 +1,25 @@
+# Chain of Custody
+
+Evidence ID: EV-0007
+
+Evidence:
+
+sample_network.log
+
+Collected by:
+
+Jose Alvarez Ramirez
+
+Collection Date:
+
+August 1, 2026
+
+Integrity:
+
+Original file preserved.
+
+Analysis performed on a working copy.
+
+Status:
+
+Closed

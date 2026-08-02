@@ -1,0 +1,29 @@
+# Analyst Journal
+
+08:05
+
+Received alert for unusual SSH activity.
+
+08:07
+
+Opened network traffic logs.
+
+08:09
+
+Identified four source IP addresses.
+
+08:11
+
+Observed repeated SSH connections from 192.168.1.30.
+
+08:15
+
+Reviewed protocol distribution.
+
+08:18
+
+Determined additional authentication logs are required before confirming malicious activity.
+
+08:22
+
+Prepared investigation report.

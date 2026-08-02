@@ -1,0 +1,12 @@
+WINDOWS SECURITY INCIDENT REPORT
+=============================================
+Failed Logons: 3
+Successful Logons: 2
+Account Lockouts: 1
+Unique Attacker IPs: 2
+
+Attacker Summary
+---------------------------------------------
+192.168.1.10 -> 2 failed attempt(s)
+ALERT: Possible brute-force attack!
+192.168.1.20 -> 1 failed attempt(s)

@@ -1,0 +1,9 @@
+WINDOWS SECURITY INCIDENT REPORT
+=============================================
+Failed Logons: 0
+Successful Logons: 0
+Account Lockouts: 0
+Unique Attacker IPs: 0
+
+Attacker Summary
+---------------------------------------------
