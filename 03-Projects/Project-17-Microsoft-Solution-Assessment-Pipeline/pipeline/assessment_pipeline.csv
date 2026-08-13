@@ -1,0 +1,3 @@
+Customer,Microsoft_AE,Solution_Area,Business_Need,Assessment_Type,Stage,Priority,Blocker,Technical_Consultant,Next_Action,Target_Kickoff,Status
+Contoso Manufacturing,Alex Rivera,Azure Infrastructure,Assess 50 on-premises Windows servers for Azure migration,Infrastructure Assessment,Qualification,High,Cost security and downtime concerns,Unassigned,Schedule discovery meeting,2026-08-20,Open
+Add initial Solution Assessment pipeline
