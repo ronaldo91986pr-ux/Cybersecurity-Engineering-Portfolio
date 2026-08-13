@@ -1,3 +1,4 @@
 Customer,Microsoft_AE,Solution_Area,Business_Need,Assessment_Type,Stage,Priority,Blocker,Technical_Consultant,Next_Action,Target_Kickoff,Status
-Contoso Manufacturing,Alex Rivera,Azure Infrastructure,Assess 50 on-premises Windows servers for Azure migration,Infrastructure Assessment,Qualification,High,Cost security and downtime concerns,Unassigned,Schedule discovery meeting,2026-08-20,Open
-Add initial Solution Assessment pipeline
+Contoso Manufacturing,Alex Rivera,Azure Infrastructure,Assess 50 on-premises Windows servers for Azure migration,Infrastructure Assessment,Consultant Handoff,High,Migration budget and downtime requirements,Unassigned,Assign Technical Consultant,2026-08-20,Open
+Fabrikam Financial,Sarah Mitchell,Microsoft Security,Improve identity endpoint and cloud security,Security Assessment,Qualification,High,MFA adoption and security requirements require discovery,Unassigned,Complete customer discovery,2026-08-25,Open
+A. Datum Corporation,Michael Torres,Copilot & AI,Evaluate readiness for Microsoft 365 Copilot,Copilot Readiness Assessment,Qualification,Medium,Data governance and permissions require review,Unassigned,Schedule discovery meeting,2026-08-28,Open
