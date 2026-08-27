@@ -1,0 +1,9 @@
+Asset_ID,Hostname,Operating_System,Environment,Business_Function,Owner,Internet_Exposed,Criticality,Patch_Group,Notes
+A001,WIN-APP-01,Windows Server 2022,Production,Customer Application,Application Team,Yes,Critical,Windows-Prod,Internet-facing application server
+A002,WIN-DB-01,Windows Server 2019,Production,Database,Database Team,No,Critical,Windows-Prod,Stores business-critical data
+A003,WIN-FILE-01,Windows Server 2019,Production,File Services,Infrastructure Team,No,High,Windows-Prod,Internal shared file server
+A004,LNX-WEB-01,Ubuntu Server 22.04,Production,Web Services,Linux Team,Yes,Critical,Linux-Prod,Public-facing Linux web server
+A005,LNX-APP-01,Ubuntu Server 22.04,Production,Application Services,Linux Team,No,High,Linux-Prod,Internal application server
+A006,LNX-DEV-01,Ubuntu Server 22.04,Development,Development,Development Team,No,Medium,Linux-Dev,Non-production development server
+A007,WIN-WS-101,Windows 11,Corporate,User Endpoint,Endpoint Team,No,Medium,Windows-Endpoint,Standard employee workstation
+A008,WIN-ADMIN-01,Windows 11,Corporate,Privileged Administration,Security Team,No,Critical,Privileged-Endpoint,Privileged administrative workstation
